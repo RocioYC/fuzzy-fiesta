@@ -32,4 +32,3 @@ Este repositorio contiene una colección de scripts prácticos centrados en la e
 
 Explorar transformaciones visuales clave en el preprocesamiento y análisis de imágenes digitales, tanto para propósitos de segmentación como de reducción de ruido o extracción de estructuras.
 
-## 📁 Estructura sugerida
